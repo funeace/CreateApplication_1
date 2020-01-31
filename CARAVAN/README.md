@@ -33,4 +33,5 @@ Things you may want to cover:
 [Finish]4-5 <br>
 [Start]4-6 <br>
 [Finish]4-6 <br>
-[Start]4-7
+[Start]4-7  <br>
+[Finish]4-7
